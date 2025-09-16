@@ -23,7 +23,7 @@ public class Exception2 {
 			}
 			System.out.println("our next code impliment");
 			
-		
+			System.out.println("Exception2.main() | Newly addded statement");
 		}
 		
   
